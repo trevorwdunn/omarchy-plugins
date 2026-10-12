@@ -10,9 +10,9 @@ An index of what I have made or changed for the [Omarchy](https://omarchy.org) b
 |---|---|---|
 | [Shelf](https://github.com/trevorwdunn/omarchy-shelf) | A drawer that hides bar widgets until you hover or click, with SUPER + drag to rearrange and no visible reload on a move | Experimental |
 | [Glass Bar](https://github.com/trevorwdunn/omarchy-glass-bar) | Liquid glass behind the whole bar | Experimental |
-| [Control Center](https://github.com/trevorwdunn/omarchy-control-center) | Network, Bluetooth and volume behind one bar icon | Experimental |
+| [Control Center](https://github.com/trevorwdunn/omarchy-control-center) | A macOS-style card behind one bar icon: Wi-Fi, Bluetooth, LocalSend, Do Not Disturb, Night Light, brightness, volume and peripheral batteries | Experimental |
 
-All three carry the `omarchy-plugin` topic, so they can also be found with a [topic search](https://github.com/search?q=user%3Atrevorwdunn+topic%3Aomarchy-plugin&type=repositories).
+The plugins are GPL-3.0-or-later. All three carry the `omarchy-plugin` topic, so they can also be found with a [topic search](https://github.com/search?q=user%3Atrevorwdunn+topic%3Aomarchy-plugin&type=repositories).
 
 ## Fixes sent to other people's plugins
 
